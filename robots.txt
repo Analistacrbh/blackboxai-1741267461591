@@ -1,0 +1,16 @@
+# Sistema de Vendas - Robots.txt
+
+User-agent: *
+Disallow: /config/
+Disallow: /classes/
+Disallow: /includes/
+Disallow: /logs/
+Disallow: /backups/
+Disallow: /uploads/
+Disallow: /assets/js/
+Disallow: /assets/css/
+
+Allow: /public/
+Allow: /assets/img/
+
+Sitemap: /sitemap.xml

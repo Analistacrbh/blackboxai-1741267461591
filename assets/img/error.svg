@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="120" cy="120" r="116" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="8"/>
+    
+    <!-- Warning Icon -->
+    <path d="M120 60C116.13 60 112.74 62.7 111.54 66.39L80.54 150.39C79.42 153.87 80.17 157.68 82.53 160.43C84.89 163.18 88.56 164.7 92.4 164.7H147.6C151.44 164.7 155.11 163.18 157.47 160.43C159.83 157.68 160.58 153.87 159.46 150.39L128.46 66.39C127.26 62.7 123.87 60 120 60ZM120 144.7C116.13 144.7 113 141.57 113 137.7C113 133.83 116.13 130.7 120 130.7C123.87 130.7 127 133.83 127 137.7C127 141.57 123.87 144.7 120 144.7ZM113 122.7V92.7H127V122.7H113Z" fill="#3498DB"/>
+    
+    <!-- Decorative Elements -->
+    <circle cx="60" cy="180" r="8" fill="#E74C3C"/>
+    <circle cx="180" cy="60" r="8" fill="#2ECC71"/>
+    <circle cx="40" cy="100" r="6" fill="#F1C40F"/>
+    <circle cx="200" cy="140" r="6" fill="#9B59B6"/>
+    
+    <!-- Abstract Lines -->
+    <path d="M30 70L50 90" stroke="#BDC3C7" stroke-width="4" stroke-linecap="round"/>
+    <path d="M190 170L210 190" stroke="#BDC3C7" stroke-width="4" stroke-linecap="round"/>
+    <path d="M170 30L190 50" stroke="#BDC3C7" stroke-width="4" stroke-linecap="round"/>
+</svg>
